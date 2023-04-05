@@ -71,8 +71,7 @@ public class PEMservice {
         String catName = sc.nextLine();
         Category cat = new Category(catName);
         repo.catList.add(cat);
-        System.out.println("Success: Category Added");
-``  
+        System.out.println("Success: Category Added");  
     }
 
     public void onCategoryList() {
