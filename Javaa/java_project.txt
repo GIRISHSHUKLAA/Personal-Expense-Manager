@@ -1,0 +1,27 @@
+Personal Expense Manager
+
+Requirement:
+1. Category Master : User can add or manage category
+2. Expense Entry category wise
+3. Expense List
+4. Reports
+          A. Category Expense Report
+
+
+User Interface 
+1. Desktop Application/Window App : AWT/Swing/JavaFx
+2. CUI: Character User Interface (switch-case)
+3. Web GUI: HTML/CSS
+4. Android App
+
+We are going to use CUI
+
+
+
+Database/Repository
+1. JDBC API with MySQL/Oracle Database
+2. File Based Repository
+3. Collection API as Repository (We will manage the whole data temporarily
+4. Cloud Repository
+ 
+We will use Collection API
